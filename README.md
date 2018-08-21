@@ -2,7 +2,7 @@
 
 This is a script for batch updating refrences of microapp-frontend-base in microapps.
 
-Each time microapp-frontend-base updated, we need to update serveral microapps, here is an easy way.
+Each time microapp-frontend-base updated, we need to update serveral microapps, here is a more efficient way.
 
 ## What does the script do
 
