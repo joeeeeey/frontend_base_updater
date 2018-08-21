@@ -1,0 +1,13 @@
+{
+  "name": "update_frontend_base",
+  "version": "1.0.0",
+  "description": "Update automatically",
+  "dependencies": {
+    "shelljs": "^0.8.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joey",
+  "license": "ISC"
+}
