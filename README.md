@@ -1,8 +1,11 @@
 ## Intro
 
-This is a script for batch updating refrences of microapp-frontend-base in microapps.
+This is a script written by [shelljs](https://github.com/shelljs/shelljs).
 
-Each time microapp-frontend-base updated, we need to update serveral microapps, here is a more efficient way.
+## Purpose 
+
+Since each time microapp-frontend-base updated, we need to update serveral microapps,
+here is a more efficient way to batch update refrences of microapp-frontend-base in microapps.
 
 ## What does the script do
 
