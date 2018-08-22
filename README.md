@@ -22,8 +22,10 @@ here is a more efficient way to batch update refrences of microapp-frontend-base
 See explainations in config/config.tmp.js
 
 ## How to Use
-
-1. Run `make init_config` to init config file.
-2. Modify the config file as your like.
-3. Run `make update_all` to update microapps.
+1. Clone this repo.
+2. Open terminal and go into the directory of this repo.
+3. Run `npm install`.
+4. Run `make init_config` to init config file.
+5. Modify the config file as your like.
+6. Run `make update_all` to update microapps.
 
