@@ -26,6 +26,6 @@ See explainations in config/config.tmp.js
 2. Open terminal and go into the directory of this repo.
 3. Run `npm install`.
 4. Run `make init_config` to init config file.
-5. Modify the config/config.js file as your like.
+5. Modify the `config/config.js` file as your like.
 6. Run `make update_all` to update microapps.
 
